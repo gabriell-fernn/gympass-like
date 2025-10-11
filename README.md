@@ -69,7 +69,7 @@ As seguintes tecnologias foram empregadas na criação deste projeto:
 Clone o projeto para o local desejado em seu computador.
 
 ```bash
-$ git clone https://github.com/gabriell-fernn/GympassLikeAPI.git
+$ git clone https://github.com/gabriell-fernn/gympass-like.git
 ```
 
 ---
